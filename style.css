@@ -39,17 +39,17 @@ h1 {
     padding: 10px;
     border: none;
     border-radius: 50px;
-    font-size: 30px; /* Corrected font-size */
+    font-size: 30px;
 }
 
 #add-btn {
-    padding: 10px; /* Corrected padding */
+    padding: 10px; 
     border: none;
     background-color: #28a745;
     color: #fff;
     border-radius: 8px;
     cursor: pointer;
-    margin-left: 8px; /* Space between input and button */
+    margin-left: 8px; 
     font-size: 30px; 
 }
 
@@ -89,7 +89,7 @@ button.edit-btn {
 button.delete-btn {
     background-color: #dc3545;
     border: none;
-    padding: 5px 10px; /* Corrected padding */
+    padding: 5px 10px; 
     margin-left: 5px;
     cursor: pointer;
     font-size: 30px;
